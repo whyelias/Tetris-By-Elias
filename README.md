@@ -35,3 +35,16 @@ How to Play:
   3. Run the game:
 
     python tetris.py
+
+<img width="696" height="599" alt="Screenshot 2025-09-22 184616" src="https://github.com/user-attachments/assets/7a689bca-e2a5-4622-a7e2-e8a7bc215350" />
+Title Screen 
+
+<img width="695" height="594" alt="Screenshot 2025-09-22 184919" src="https://github.com/user-attachments/assets/58eb13a9-f6cf-41a3-99d3-97867e8bf11b" />
+Game Screen
+
+<img width="696" height="599" alt="Screenshot 2025-09-22 184616" src="https://github.com/user-attachments/assets/7e88892c-dcdd-4f0d-bede-3dba0af06ac4" />
+Game Over Screen
+
+
+
+  
