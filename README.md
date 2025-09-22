@@ -15,8 +15,7 @@ User Interface:
 Controls:
 - Arrow Keys → Move and rotate pieces
 - Spacebar → Hard drop
-- C → Hold current piece
-- X → Swap held piece with current piece
+- C → Hold/Swap current piece
 - ESC → Quit
 
 Uses: 
