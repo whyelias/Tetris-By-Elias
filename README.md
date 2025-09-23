@@ -44,7 +44,7 @@ Title Screen
 
 Game Screen
 
-<img width="696" height="599" alt="Screenshot 2025-09-22 184616" src="https://github.com/user-attachments/assets/7e88892c-dcdd-4f0d-bede-3dba0af06ac4" />
+<img width="686" height="589" alt="Screenshot 2025-09-22 184936" src="https://github.com/user-attachments/assets/02969283-b0c2-4929-b3a9-aa8a2aaa9bea" />
 
 Game Over Screen
 
