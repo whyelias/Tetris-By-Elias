@@ -5,7 +5,7 @@ Features:
 - Core Gameplay: Classic Tetris mechanics with 7 tetrominoes
 - Dynamic Difficulty: Game speeds up as the player clears lines and levels up
 - Scoring System: Rewards for clearing multiple lines at once (single, double, triple, Tetris)
-- Piece Hold/Swap: Save a piece with C and swap it in later with X
+- Piece Hold/Swap: Save/Swap a piece by pressing C
 
 User Interface:
 - Left panel shows the held piece
@@ -37,12 +37,15 @@ How to Play:
     python tetris.py
 
 <img width="696" height="599" alt="Screenshot 2025-09-22 184616" src="https://github.com/user-attachments/assets/7a689bca-e2a5-4622-a7e2-e8a7bc215350" />
+
 Title Screen 
 
 <img width="695" height="594" alt="Screenshot 2025-09-22 184919" src="https://github.com/user-attachments/assets/58eb13a9-f6cf-41a3-99d3-97867e8bf11b" />
+
 Game Screen
 
 <img width="696" height="599" alt="Screenshot 2025-09-22 184616" src="https://github.com/user-attachments/assets/7e88892c-dcdd-4f0d-bede-3dba0af06ac4" />
+
 Game Over Screen
 
 
